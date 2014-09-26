@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/JSON">
+        <file>jsJSON</file>
+    </qresource>
+</RCC>
